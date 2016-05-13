@@ -4,6 +4,13 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MVPDemo.iml" filepath="$PROJECT_DIR$/MVPDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openimSDK/openimSDK.iml" filepath="$PROJECT_DIR$/openimSDK/openimSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pagerslidingtabstrip/pagerslidingtabstrip.iml" filepath="$PROJECT_DIR$/pagerslidingtabstrip/pagerslidingtabstrip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pulltorefreshhandmark/pulltorefreshhandmark.iml" filepath="$PROJECT_DIR$/pulltorefreshhandmark/pulltorefreshhandmark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slidingmenu/slidingmenu.iml" filepath="$PROJECT_DIR$/slidingmenu/slidingmenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ultraptrwithloadmore/ultraptrwithloadmore.iml" filepath="$PROJECT_DIR$/ultraptrwithloadmore/ultraptrwithloadmore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpagerindicator/viewpagerindicator.iml" filepath="$PROJECT_DIR$/viewpagerindicator/viewpagerindicator.iml" />
     </modules>
   </component>
 </project>
